@@ -14,8 +14,8 @@ we need to configure a few things.
 Here's how Dracula sets up his new laptop:
 
 ~~~ {.bash}
-$ git config --global user.name "Vlad Dracula"
-$ git config --global user.email "vlad@tran.sylvan.ia"
+$ git config --global user.name "Your Github username"
+$ git config --global user.email "Your Github account email"
 $ git config --global color.ui "auto"
 ~~~
 
